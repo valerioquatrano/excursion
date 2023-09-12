@@ -1,7 +1,7 @@
 body {
     font-family:verdana;
     background-color:black;
-
+    text-align:center;
 }
 
 
@@ -9,12 +9,21 @@ h1 {
     font-weight:normal;
     font-size: 50px;
     color:white;
-    text-align:center;
-
 }
+
 
 #header {
     color:aquamarine;
-    text-align:center;
     font-size: 16px;
+}
+
+h2 {
+    font-size:42px;
+    font-weight: 300;
+    color:white;
+}
+
+#middle {
+    font-size:21px;
+    color:gray;
 }
